@@ -34,13 +34,13 @@ boot文件<br>
   *  使用你的电脑，提前装好adb与fastboot驱动。
   *  确认你所需要刷写boot对应的A/B分区以及对应分区版本，且需要Bootloader lock状态为Unlock<br>
     Unlock Bootloader<br>
-     ```
+    ```
    fastboot flashing unlock
-     ```
-   Lock Bootloader(请确保所有分区均为官方镜像无任何改动)<br>
-     ```
+    ```
+### 【Lock Bootloader】(请确保所有分区均为官方镜像并无任何改动)<br>
+    ```
    fastboot flashing lock
-     ```
+    ```
 ### 【刷入boot】
   *  使用fastboot命令行工具，手机在fast boot模式中键入以下命令<br>
     ```
