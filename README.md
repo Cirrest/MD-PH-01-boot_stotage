@@ -5,7 +5,7 @@
 
 水月雨 MOONDROP MIAD01 手机 官方原厂boot及update升级文件<br>
 <br>
-相关更新日志可在水月雨 微博/微信公众号查看
+相关更新日志可在水月雨MoonDrop 酷安/微博/微信公众号 查看
 <br>
 
 boot文件<br>
