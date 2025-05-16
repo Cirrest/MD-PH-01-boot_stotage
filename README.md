@@ -23,14 +23,14 @@ boot文件<br>
 如何使用？
 ----
 <br>
-update增量OTA更新包<br>
+### update增量OTA更新包<br>
 
 * update增量OTA更新包下载至手机内部存储中，在设置-系统-系统更新-右上角-本地更新-选择Txxxx_to_Txxxx.zip
     #####  请注意，OTA增量更新前请先核对你的目前手机系统自定义版本号与目标更新版本
 boot文件<br>
 如果你需要Root或需要修改boot，可以patch你的boot并刷入设备<br>
 
-*  【Unlock Bootloader】
+### 【Unlock Bootloader】
   *  使用你的电脑，提前装好adb与fastboot驱动。
   *  确认你所需要刷写boot对应的A/B分区以及对应分区版本，且需要Bootloader lock状态为Unlock<br>
     Unlock Bootloader<br>
@@ -41,7 +41,7 @@ boot文件<br>
      ```
    fastboot flashing lock
      ```
-*  【刷入boot】
+### 【刷入boot】
   *  使用fastboot命令行工具，手机在fast boot模式中键入以下命令<br>
     ```
     fastboot flash boot_a或b 你的文件位置
