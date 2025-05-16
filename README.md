@@ -2,10 +2,11 @@
 
 声明：该项目仅本个人作存储官方公开的boot.img和update文件，方便用户恢复及存档升级使用，不做任何形式的修改、反编译、开源。著作权、商标等归[成都水月雨科技有限公司](https://moondroplab.com/)所有。
 ----
+
+水月雨 MOONDROP MIAD01 手机 官方原厂boot及update升级文件<br>
 <br>
 相关更新日志可在水月雨 微博/微信公众号查看
 <br>
-水月雨 MOONDROP MIAD01 手机 官方原厂boot及update升级文件<br>
 
 boot文件<br>
 
