@@ -38,9 +38,9 @@ boot文件<br>
    fastboot flashing unlock
     ```
 ### 【Lock Bootloader】(请确保所有分区均为官方镜像并无任何改动)<br>
-    ```
+   ```
    fastboot flashing lock
-    ```
+   ```
 ### 【刷入boot】
   *  使用fastboot命令行工具，手机在fast boot模式中键入以下命令<br>
     ```
